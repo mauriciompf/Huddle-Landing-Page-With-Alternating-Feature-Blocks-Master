@@ -50,7 +50,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://utopia.fyi/) - I was able to create custom fonts with responsive features thanks to this.
+- [Utopia](https://utopia.fyi/) - I was able to create custom fonts with responsive features thanks to this.
 
 ## Author
 
