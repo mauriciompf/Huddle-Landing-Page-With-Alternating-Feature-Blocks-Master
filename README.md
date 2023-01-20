@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-Ltqz4x3p1C)
-- Live Site URL: [Add live site URL here](https://mauriciompf.github.io/Huddle-Landing-Page-With-Alternating-Feature-Blocks-Master/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-Ltqz4x3p1C)
+- Live Site URL: [Live Site](https://mauriciompf.github.io/Huddle-Landing-Page-With-Alternating-Feature-Blocks-Master/)
 
 ## My process
 
