@@ -61,6 +61,7 @@ a {
 
 .header-banner,
 .intro__section,
+.wrapper-sign-up__main,
 .article,
 .sign-up-box__section,
 .wrapper__footer,
@@ -117,11 +118,17 @@ a {
   font-family: var(--font-body);
 }
 
+.wrapper-sign-up__main {
+  max-width: min(90%, 300rem / 16);
+}
+
 .btn-sign-up__main {
   background-color: var(--btn-main);
   padding: 1rem 3.5rem;
   color: #fff;
   font-size: var(--step--2);
+  display: block;
+  margin-bottom: 2rem;
 }
 
 .btn-sign-up__main:focus,
@@ -149,6 +156,15 @@ a {
 
   .header p {
     margin-right: 5rem;
+  }
+
+  .wrapper-sign-up__main {
+    max-width: 100%;
+    margin: 0;
+  }
+
+  .btn-sign-up__main {
+    display: inline;
   }
 }
 
